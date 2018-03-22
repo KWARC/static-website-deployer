@@ -1,5 +1,5 @@
 # Start from the basic debian
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER admin@kwarc.info
 
 # Install openssh, rsync and git
