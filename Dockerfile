@@ -1,5 +1,5 @@
 # Start from the basic debian
-FROM debian:buster
+FROM debian:bullseye
 MAINTAINER admin@kwarc.info
 
 # Install openssh, rsync and git
